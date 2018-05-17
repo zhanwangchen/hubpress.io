@@ -1,0 +1,27 @@
+// = Your Blog title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+= Hello, welcome
+Hello,
+
+I worked on Machine Learning and Natural Language Processing as R&D software engineer for 2 years after Bachelor. Then Came to Germany for master degree. In 2016, studied NLP, Deep learning, Data analysis, statistics at University of Potsdam. From 2017 to 2018, studied machine learning, big data analysis, advanced information management, Cloud Computing at Technische Universität Berlin.
+
+* blog     : https://zhanwangchen.github.io		
+* github   : https://github.com/zhanwangchen
+* linkedin : https://www.linkedin.com/in/zhanwang-chen
+* flickr   : https://www.flickr.com/people/zhanwang
+* facebook : https://www.facebook.com/zhanwangc
+
+* email: zhanwang.c@gmail.com
+
+Zhanwang Chen (陈展望)
+
+:published_at: 2018-05-16
+:hp-tags: about
+// :hp-alt-title: My English Title
+
+ 
+
